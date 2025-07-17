@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Utkarsh-Patel-13.Utkarsh-Patel-13)
--->
-<h1>GitHub Stats</h1>
-
-[![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarsh-Patel-13&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/Utkarsh-Patel-13)
