@@ -46,6 +46,6 @@ Git · Prisma · SQLAlchemy · Datadog · Sentry · PostHog
 
 - 💼 [Website](https://utkarshpatel.net/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/utkarsh-patel-2012/)
-- 📧 utkapatel13@gmail.com | utkarshhpatel13@gmai.com
+- 📧 utkapatel13@gmail.com | utkarshhpatel13@gmail.com
 
 Open to full-stack and product engineering roles — feel free to reach out!
